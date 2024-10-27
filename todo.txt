@@ -1,0 +1,35 @@
+TODO:
+In checkout page if checkbox has additional fee, should update cart totals on checkbox on or off.
+Fees Taxable or not, fees per product or not.
+
+
+
+1. ajax required alerts should show respective alerts if available.
+2.Further testing required..
+
+
+
+1. Saving checkbox again should show the same edit form.
+2. First time general settings values are not updating to db.
+3. Twenty Twenty two checkbox field is not visible.
+4.
+
+
+
+
+
+
+//////////////
+
+Testing Order total conditions
+Testing category product limiting.
+Testing validations in product page
+Testing validations in cart page
+Testing validations in checkout page
+Testing Session store and display the meta info
+Language file fix
+
+
+Making data display in order emails and in order details, with option to on off these as required per checkbox.
+
+Apply checked in checkboxes based on session already checked a box once.

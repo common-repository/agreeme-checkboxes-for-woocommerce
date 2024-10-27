@@ -1,0 +1,290 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-06 12:16+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WP-CLI 2.0.1\n"
+"X-Domain: agree-me-woocommerce\n"
+
+#: agree-me-woocommerce.php:35
+msgid "Yes"
+msgstr ""
+
+#: agree-me-woocommerce.php:36
+msgid "No"
+msgstr ""
+
+#: agree-me-woocommerce.php:298
+msgid "Settings"
+msgstr ""
+
+#: inc/agrwc-functions.php:91
+msgid "No shipping class"
+msgstr ""
+
+#: inc/agrwc-functions.php:113
+msgid "Guest"
+msgstr ""
+
+#: inc/classes/agrwc-cbx-list-table.php:31
+#: inc/options/view/admin-page-cbx.php:20
+msgid "Checkbox"
+msgstr ""
+
+#: inc/classes/agrwc-cbx-list-table.php:31
+#: inc/options/agrwc-settings-cbx.php:75
+#: inc/options/view/admin-page-cbx.php:19
+msgid "Checkboxes"
+msgstr ""
+
+#: inc/classes/agrwc-cbx-list-table.php:47
+msgid "Checkbox name"
+msgstr ""
+
+#: inc/classes/agrwc-cbx-list-table.php:47
+msgid "Products"
+msgstr ""
+
+#: inc/classes/agrwc-cbx-list-table.php:47
+#: inc/options/view/admin-page-cbx.php:50
+msgid "Locations"
+msgstr ""
+
+#: inc/classes/agrwc-cbx-list-table.php:47
+#: inc/options/view/admin-page-cbx.php:82
+msgid "Required"
+msgstr ""
+
+#: inc/classes/agrwc-cbx-list-table.php:88
+msgid "Edit"
+msgstr ""
+
+#: inc/classes/agrwc-cbx-list-table.php:88
+msgid "Delete"
+msgstr ""
+
+#: inc/classes/agrwc-cbx.php:29
+msgid "Products Page"
+msgstr ""
+
+#: inc/classes/agrwc-cbx.php:30
+msgid "Cart Page"
+msgstr ""
+
+#: inc/classes/agrwc-cbx.php:31
+msgid "Checkout Page"
+msgstr ""
+
+#: inc/classes/agrwc-install.php:153
+msgid ""
+"Agreeme Checkboxes for Woocommerce database update complete. Thank you for "
+"updating to the latest version!"
+msgstr ""
+
+#: inc/classes/agrwc-orderdisplay.php:54
+msgid "Agree to"
+msgstr ""
+
+#: inc/classes/agrwc-orderdisplay.php:129
+msgid "Agree to:"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:28
+#: inc/options/agrwc-settings-cbx.php:139
+msgid "AgreeMe Checkboxes"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:49
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:53
+#: inc/options/agrwc-settings-cbx.php:133
+#: inc/options/agrwc-settings-cbx.php:173
+msgid "Checkbox does not exist!"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:56
+msgid "Checkbox have been deleted."
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:75
+msgid "General options"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:84
+msgid "General Options"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:84
+msgid "Enable"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:84
+msgid "Enable Switch On Off all checkboxes"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:86
+msgid ""
+"Enable Plugin to Display the created Checkboxes at your Woocommerce pages."
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:86
+msgid "Classes for Buttons to trigger required field alerts"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:86
+msgid "Classes for form submit to trigger required field alerts"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:86
+msgid "Required field alert text message"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:139
+msgid "Add New"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:140
+msgid ""
+"These are Checkboxes to which you want your customers to notify/check during "
+"their checkout process."
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:181
+msgid "Checkbox name is required."
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:208
+msgid "Checkbox updated successfully."
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:210
+msgid "Back to Checkboxs"
+msgstr ""
+
+#: inc/options/agrwc-settings-cbx.php:211
+msgid "Add a new checkbox"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:28
+msgid "Checkbox Name"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:29
+msgid "This is the name of the checkbox for your reference."
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:38
+msgid "Checkbox Label"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:39
+msgid "This is the label text of the checkbox , supports links."
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:51
+msgid "These are the Locations where the checkbox should be shown."
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:63
+msgid "Checkout Locations"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:64
+msgid ""
+"These are the Checkout Page locations where the checkbox should be shown."
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:83
+msgid "If its required to be checked to proceed further"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:93
+msgid "Required Alert Message"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:94
+msgid ""
+"This is the alert message if checkbox is not checked and proceed to \"Add-to-"
+"Cart/Checkout\""
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:110
+msgid "Limit to Products"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:113
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:122
+msgid "Limit display to the selected products."
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:142
+msgid "Limit to Categories"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:143
+msgid "Limit to these categories, add one or more categories"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:148
+msgid "Limit to categories"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:171
+msgid "Limit to Order Total"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:172
+msgid "Limit to  order total < > = XXX in cart and checkout pages"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:186
+msgid "Add Fee & Fee Label"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:187
+msgid ""
+"Add extra fees to the cart order totals when checked, taxable with standard "
+"tax rate & corresponding Fee Text"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:200
+msgid "Display in Order Details"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:201
+msgid "This is where to show the entries"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:206
+msgid "Order Details"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:207
+msgid "Order Emails"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:225
+msgid "Save Changes"
+msgstr ""
+
+#: inc/options/view/admin-page-cbx.php:227
+msgid "Delete checkbox"
+msgstr ""
